@@ -1,0 +1,20 @@
+{
+  "auto_update": true,
+  "image": {
+    "homeassistant": "ghcr.io/home-assistant/{machine}-homeassistant",
+    "supervisor": "ghcr.io/home-assistant/{arch}-hassio-supervisor",
+    "audio": "ghcr.io/home-assistant/{arch}-hassio-audio",
+    "cli": "ghcr.io/home-assistant/{arch}-hassio-cli",
+    "dns": "ghcr.io/home-assistant/{arch}-hassio-dns",
+    "observer": "ghcr.io/home-assistant/{arch}-hassio-observer",
+    "multicast": "ghcr.io/home-assistant/{arch}-hassio-multicast"
+  },
+  "channel": "stable",
+  "supervisor": "2023.12.0",
+  "homeassistant": "2024.1.3",
+  "cli": "2023.11.0",
+  "dns": "2023.06.2",
+  "audio": "2023.12.0",
+  "observer": "2023.06.0",
+  "multicast": "2023.06.2"
+}

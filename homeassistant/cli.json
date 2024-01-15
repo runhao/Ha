@@ -1,0 +1,5 @@
+{
+  "version": "2023.11.0",
+  "image": "ghcr.io/home-assistant/aarch64-hassio-cli",
+  "access_token": "141a70ad821283f08fd342689ae82063a7b1c55b1a306ae9603fd6e14d805232624db87c4481751d59d9c07768c54df795228c4e5505734d"
+}

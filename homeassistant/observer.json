@@ -1,0 +1,5 @@
+{
+  "version": "2023.06.0",
+  "image": "ghcr.io/home-assistant/aarch64-hassio-observer",
+  "access_token": "ad0dcdbc2c0d457165a3f4a121d8482ea3dbbf5ec53a42beebdd61fe9a23ddf885a3a9e0291ae6a1f0a0f9d3b10546530df3e09eb7fd58b3"
+}

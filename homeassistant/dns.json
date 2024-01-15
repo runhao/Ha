@@ -1,0 +1,6 @@
+{
+  "fallback": true,
+  "servers": [],
+  "version": "2023.06.2",
+  "image": "ghcr.io/home-assistant/aarch64-hassio-dns"
+}

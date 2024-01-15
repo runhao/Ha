@@ -1,0 +1,13 @@
+{
+  "backups_exclude_database": false,
+  "uuid": "61383aac22e14198a8f551b55f2f76ac",
+  "port": 8123,
+  "watchdog": true,
+  "ssl": false,
+  "boot": true,
+  "audio_input": null,
+  "audio_output": null,
+  "version": "landingpage",
+  "image": "ghcr.io/home-assistant/raspberrypi4-64-homeassistant",
+  "access_token": "d77a6358a42824db2cf7fd8f7c76e27a802eb6a0aff21b68f579211c6cb89560fba4da3ee2c81316a70c7b131a7726936a71d810cd199214"
+}
